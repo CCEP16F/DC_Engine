@@ -9,6 +9,7 @@ modified version of tesseract.gg
   <li>Include GLFW support</li>
   <li>Include GLAD GL-loader</li>
   <li>Replace SDL2_image with stb_image</li>
+  <li>Replace zlib for miniz</li>
 </ul>
 
 <ul>
