@@ -25,5 +25,6 @@ modified version of tesseract.gg
   <li>Bezier surface support</li>
   <li>Mesh - Ray cast selection (replace bbox - ray cast)</li>
   <li>Decal selection only if visible</li>
+  <li>React Physics3D support</li>
 </ul>
 
