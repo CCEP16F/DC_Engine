@@ -20,7 +20,7 @@ modified version of tesseract.gg
 <ul>
   <li>Multi Window support</li>
   <li>Modified Nuklear UI support</li>
-  <li>Add 3D Gismos</li>
+  <li>Include 3D Gismos</li>
 </ul>
 
 <ul>
