@@ -5,7 +5,8 @@ modified version of tesseract.gg
 
 <ul>
   <li>Cmake Support</li>
-  <li>Simplyfy Code</li>
+  <li>Simplify Code</li>
+  <li>Include Development Documentation</li>
   <li>Include GLFW support</li>
   <li>Include GLAD GL-loader</li>
   <li>Replace SDL2_image with stb_image</li>
