@@ -17,6 +17,7 @@ modified version of tesseract.gg
   <li>Modified Nuklear UI support</li>
   <li>Bezier surface support</li>
   <li>React Physics3D support</li>
+  <li>Include Development Documentation</li>
 </ul>
 
 <H1>ASSETS MODIFICATIONS</H1>
@@ -34,7 +35,8 @@ modified version of tesseract.gg
   <li>Decal selection only if visible</li>
   <li>Selection masks "Lights, mesh, world, etc."</li>
   <li>Layers</li>
-  <li>Include Development Documentation</li>
+  <li>GUI Entity Attribute Editor</li>
+  <li>Color Picker</li>
 </ul>
 
 <H1>TOOLS</H1>
