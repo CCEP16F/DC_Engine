@@ -3,8 +3,11 @@ modified version of tesseract.gg
 
 <H1>GENERAL MODIFICATIONS</H1>
 <ul>
-  <li>Include GLFW support (In Progress)</li>
+  
+  <li>Multi Window Backend (In Progress)</li>
   <li>Multi Window support (In Progress)</li>
+  <li>Better Inputs Bindings (In Progress)</li>
+  <li>Include GLFW support (In Progress)</li>
   
   <li>Cmake Support (Complete)</li>
   <li>Include GLAD GL-loader (Complete)</li>
@@ -34,9 +37,10 @@ modified version of tesseract.gg
   <li>Mesh - Ray cast selection "replace bbox - ray cast"</li>
   <li>Decal selection only if visible</li>
   <li>Selection masks "Lights, mesh, world, etc."</li>
-  <li>Layers</li>
+  <li>Layers "Visibility groups"</li>
   <li>GUI Entity Attribute Editor</li>
   <li>Color Picker</li>
+  <li>Multi selection</li>
 </ul>
 
 <H1>TOOLS</H1>
