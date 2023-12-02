@@ -41,6 +41,7 @@ Game Engine Implementation
     <li>local string support (In Progress)</li>
   </ul>
   <li>Bezier surface</li>
+  <li>Procedural materials|textures</li>
 
   <li>Improved directory control</li>
   <ul>
@@ -78,18 +79,28 @@ Game Engine Implementation
   <li>Layers "Visibility groups"</li>
   <li>UI Entity Editor (In Progress)</li>
   <ul>
-    <li>UI Generic Entity Attribute Editor (Complete)</li>
-    <li>UI Lights entity editor with Color Picker (Complete)</li>
-    <li>UI Mapmodel entity editor (Complete)</li>
-    <li>UI Playerstart entity editor (Complete)</li>
-    <li>UI EnvMap entity editor (Complete)</li>
-    <li>UI Sound entity editor</li>
-    <li>UI Decal entity editor</li>
-    <li>UI Particle entity editor</li>
+    <li>Generic Entity Attribute Editor (Complete)</li>
+    <li>Lights entity editor with Color Picker (Complete)</li>
+    <li>Mapmodel entity editor (Complete)</li>
+    <li>Playerstart entity editor (Complete)</li>
+    <li>EnvMap entity editor (Complete)</li>
+    <li>Sound entity editor (In Progress)</li>
+    <li>Decal entity editor (In Progress)</li>
+    <li>Particle entity editor</li>
   </ul>
-  
-  <li>Vertex Color Picker</li>
+  <li>UI Vertex editor (In Progress)</li>
+  <ul>
+    <li>Vertex Color Picker</li>
+    <li>Vertex Texture offset</li>
+    <li>Vertex Texture scale</li>
+    <li>Vertex Texture rotation</li>
+    <li>Vertex texture Picker</li>
+  </ul>
   <li>Multi selection</li>
+  <li>Bezie Surface editor</li>
+  <li>Procedural Material editor</li>
+  <li>Constructive Solid Geometry editor</li>
+  <li>Volumetric sculting</li>
 </ul>
 
 <H1>TOOLS</H1>
